@@ -1,0 +1,8 @@
+
+
+
+Needed Packages 
+
+pip install image
+pip install pillow
+pip install opencv-python
